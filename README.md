@@ -1,4 +1,7 @@
 ### Hi Developers 👋
+<div>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A200&width=468&lines=I'AM+GAURAV+SINGH!" alt="Typing SVG" /></a>
+</div>
 
 I'm
 Full Stack Solution Architect
@@ -15,10 +18,7 @@ The crossover between design and programming has always been of interest to me, 
 </div>
 
 Languages and Tools: 
-<div>
-	[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A200&width=468&lines=I'AM+GAURAV+SINGH!)](https://git.io/typing-svg)
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A200&width=468&lines=I'AM+GAURAV+SINGH!" alt="Typing SVG" /></a>
-</div>
+
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="41" />
     </a>
