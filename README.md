@@ -58,10 +58,10 @@ Languages and Tools:
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
     </a>
-    <br><hr/><br>
+    <br><hr/>
     <dir>
 	<img src="https://user-images.githubusercontent.com/117922914/260936866-61d89383-610c-46c1-a1d8-b0b06e57a9c8.gif" alt="dino" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-</dir>
+</dir><br>
 
 <div>
 	<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
